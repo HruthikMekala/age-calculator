@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/age-calculator/static/css/main.24fdefef.css",
+    "main.js": "/age-calculator/static/js/main.8637cbe7.js",
+    "static/js/787.1715cc32.chunk.js": "/age-calculator/static/js/787.1715cc32.chunk.js",
+    "index.html": "/age-calculator/index.html",
+    "main.24fdefef.css.map": "/age-calculator/static/css/main.24fdefef.css.map",
+    "main.8637cbe7.js.map": "/age-calculator/static/js/main.8637cbe7.js.map",
+    "787.1715cc32.chunk.js.map": "/age-calculator/static/js/787.1715cc32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24fdefef.css",
+    "static/js/main.8637cbe7.js"
+  ]
+}
